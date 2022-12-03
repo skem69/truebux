@@ -1,0 +1,55 @@
+body {
+background-color: #1d1d1d;
+}
+
+
+#true {
+position: absolute;
+width: 291px;
+height: 115px;
+
+font-family: 'Integral CF';
+font-style: normal;
+font-weight: 700;
+font-size: 96px;
+line-height: 115px;
+padding-top: 250px;
+padding-left: 700px;
+
+color: #FFFFFF;
+}
+
+#bux {
+    position: absolute;
+    width: 224px;
+    height: 115px;
+    
+    font-family: 'Integral CF';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 115px;
+    
+    background: linear-gradient(90deg, #9948FF 0%, #7A11FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    padding-top: 250px;
+    padding-left: 1000px;
+}
+
+#gw {
+position: absolute;
+width: 263px;
+height: 43px;
+
+font-family: 'Integral CF';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 43px;
+padding-top: 420px;
+padding-left: 850px;
+
+color: #FFFFFF;
+}
